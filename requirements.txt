@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 streamlit
 requests
 Pillow
 python-dotenv
+=======
+streamlit
+requests
+pillow
+>>>>>>> cf97a5ab36271ed12e4611cbe0d7411c2ea5ecbd
